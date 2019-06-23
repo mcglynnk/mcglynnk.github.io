@@ -2,3 +2,7 @@
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
 
+[submodule "public_"]
+	path = public_
+	url = git@github.com:mcglynnk/mcglynnk.github.io.git
+	branch = master
