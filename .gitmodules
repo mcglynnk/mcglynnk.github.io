@@ -6,3 +6,8 @@
 	path = public_
 	url = git@github.com:mcglynnk/mcglynnk.github.io.git
 	branch = master
+
+[submodule "public"]
+	path = public
+	url = git@github.com:mcglynnk/mcglynnk.github.io.git
+	branch = master
