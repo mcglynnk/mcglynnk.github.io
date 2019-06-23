@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 30 # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -18,18 +18,36 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "base, dplyr, R Markdown"
   
+[[feature]]
+  icon = "diagnoses"
+  icon_pack = "fas"
+  name = "Molecular Biology"
+  description = "cloning, CRISPR/Cas9 gene editing, plasmid customization"  
+
+[[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Epigenetics & Biochemistry"
+  description = "enzyme assays, protein purification, protein-protein interactions, ChIP qPCR"
+
+[[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "Cell Biology"
+  description = "cell culture, cell-based assays, lentiviral transduction, shRNA & overexpression"
+
+[[feature]]
+  icon = "syringe"
+  icon_pack = "fas"
+  name = "Oncology"
+  description = "flow cytometry, primary bone marrow cell culture & assays, mouse leukemia models"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Data Analysis"
+  description = "Graphpad Prism, FlowJo, PyMOL"
 
 +++

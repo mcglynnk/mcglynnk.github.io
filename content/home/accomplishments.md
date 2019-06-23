@@ -21,31 +21,50 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "Data Science Specialization"
+  url = "https://www.coursera.org/specializations/jhu-data-science"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/KU8JGKGZGRF4" 
+  date_start = "2019-05-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Drug Discovery"
+  url = "https://www.coursera.org/learn/drug-discovery"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/RCT3QDFQNWHB"
+  date_start = "2019-06-01"
+  date_end = "2019-06-01"
+  description = "Learned the major aspects of the drug discovery process, starting with target selection, to compound screening to designing lead candidates"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Mechanism of the methyltransferase Prdm3 in MLL leukemogenesis"
+  organization_url = ""
+  title = "Awarded NCI F31 Kirschstein-NRSA Predoctoral Fellowship"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2015-06-01"
+  date_end = "2018-06-30"
   description = ""
 
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+  
+  #Background color.
+  #color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+   image = "IMG_20170528_194744_707.jpg"  # Name of image in `static/img/`.
+   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+   text_color_light = true
 +++

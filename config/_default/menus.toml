@@ -9,24 +9,24 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Research"
+  url = "#research"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Resume"
+  url = "files/Kelly A. McGlynn Resume____.pdf"
   weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "Data Science Projects Showcase"
+  url = "https://mcglynnk.github.io/showcase"
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
