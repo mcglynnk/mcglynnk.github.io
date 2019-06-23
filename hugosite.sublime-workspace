@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "data/page_sharer.toml",
+			"settings":
+			{
+				"buffer_size": 1285,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Kelly/_Sites/hugosite",
+		"/C/Users/Kelly/_Sites/hugosite/content",
+		"/C/Users/Kelly/_Sites/hugosite/data",
+		"/C/Users/Kelly/_Sites/hugosite/static",
+		"/C/Users/Kelly/_Sites/hugosite/themes",
+		"/C/Users/Kelly/_Sites/hugosite/themes/academic",
+		"/C/Users/Kelly/_Sites/hugosite/themes/academic/static"
+	],
+	"file_history":
+	[
+		"/C/Users/Kelly/_Sites/hugosite/content/authors/admin/_index.md",
+		"/C/Users/Kelly/_Sites/website/_includes/head/custom.html",
+		"/C/Users/Kelly/_Sites/website/_includes/sidebar-original.html",
+		"/C/Users/Kelly/_Sites/website/_pages/portfolio.md",
+		"/C/Users/Kelly/_Sites/website/_data/navigation.yml",
+		"/C/Users/Kelly/_Sites/website/_pages/projects.md",
+		"/C/Users/Kelly/_Sites/website/_portfolio/Genome assemblies project-n.nb.html",
+		"/C/Users/Kelly/_Sites/website/_layouts/singlenew-2.html",
+		"/C/Users/Kelly/_Sites/website/_sass/minimal-mistakes/_masthead.scss",
+		"/C/Users/Kelly/_Sites/website/_sass/minimal-mistakes/_page.scss",
+		"/C/Users/Kelly/_Sites/website/_portfolio/Genome assemblies query.nb.html",
+		"/C/Users/Kelly/_Sites/website/_portfolio/Genome assemblies query toc float.nb.html",
+		"/C/Users/Kelly/_Sites/website/_portfolio/Assemblies-project.html",
+		"/C/Users/Kelly/_Sites/website/_portfolio/Assemblies-project.md",
+		"/C/Users/Kelly/_Sites/website/_portfolio/Genome assemblies query.nb - Copy.html",
+		"/C/Users/Kelly/_Sites/website/_layouts/default2.html",
+		"/C/Users/Kelly/_Sites/website/_layouts/collection.html",
+		"/C/Users/Kelly/_Sites/website/_includes/sidebar.html",
+		"/C/Users/Kelly/_Sites/website/_posts/Assemblies-project.html",
+		"/C/Users/Kelly/_Sites/website/_pages/collection-list.md",
+		"/C/Users/Kelly/_Sites/website/_pages/collection-archive.md",
+		"/C/Users/Kelly/_Sites/website/_pages/index.md",
+		"/C/Users/Kelly/_Sites/website/_portfolio/foo-bar.md",
+		"/C/Users/Kelly/_Sites/website/_pages/home old.md",
+		"/C/Users/Kelly/_Sites/website/index.html",
+		"/C/Users/Kelly/_Sites/website/_site/assets/css/main.css",
+		"/C/Users/Kelly/_Sites/website/_sass/minimal-mistakes/_reset.scss",
+		"/C/Users/Kelly/_Sites/website/_sass/minimal-mistakes/_print.scss",
+		"/C/Users/Kelly/_Sites/website/_sass/minimal-mistakes/_base.scss",
+		"/C/Users/Kelly/_Sites/website/_sass/minimal-mistakes/_page-original.scss",
+		"/C/Users/Kelly/_Sites/website/_sass/minimal-mistakes/vendor/magnific-popup/_settings.scss",
+		"/C/Users/Kelly/_Sites/website/_sass/minimal-mistakes/_variables.scss",
+		"/C/Users/Kelly/_Sites/website/assets/css/main.scss",
+		"/C/Users/Kelly/_Sites/website/assets/css/main.css",
+		"/C/Users/Kelly/_Sites/website/_includes/archive-single.html",
+		"/C/Users/Kelly/_Sites/website/_layouts/home.html",
+		"/C/Users/Kelly/_Sites/website/_layouts/home-original.html",
+		"/C/Users/Kelly/_Sites/website/_pages/home.md",
+		"/C/Users/Kelly/_Sites/website/assets/css/main-original.scss",
+		"/C/Users/Kelly/_Sites/website/index.md",
+		"/C/Users/Kelly/_Sites/website/_site/assets/css/main_o.css",
+		"/C/Users/Kelly/_Sites/website/assets/js/lunr/lunr-en.js",
+		"/C/Users/Kelly/_Sites/website/_site/blog/post-modified/index.html",
+		"/C/Users/Kelly/_Sites/website/_site/assets/js/plugins/jquery.magnific-popup.js",
+		"/C/Users/Kelly/_Sites/website/_includes/page__hero.html",
+		"/C/Users/Kelly/_Sites/website/_site/home/index.html",
+		"/C/Users/Kelly/_Sites/website/_site/assets/js/lunr/lunr.js",
+		"/C/Users/Kelly/_Sites/website/_site/assets/js/lunr/lunr-store.js",
+		"/C/Users/Kelly/_Sites/website/_site/assets/js/lunr/lunr-gr.js",
+		"/C/Users/Kelly/_Sites/website/_site/assets/js/lunr/lunr-en.js",
+		"/C/Users/Kelly/_Sites/website/_site/assets/js/lunr/lunr-en-original.js",
+		"/C/Users/Kelly/_Sites/website/_pages/research.md",
+		"/C/Users/Kelly/_Sites/website/_layouts/archive-taxonomy.html",
+		"/C/Users/Kelly/_Sites/website/_layouts/tags.html",
+		"/C/Users/Kelly/_Sites/website/_layouts/single.html",
+		"/C/Users/Kelly/_Sites/website/_layouts/singlenew.html",
+		"/C/Users/Kelly/_Sites/website/_pages/resume.md",
+		"/C/Users/Kelly/RStudio/assemblies/Genome_assemblies_project.html",
+		"/C/Users/Kelly/_Sites/website/_pages/about.md",
+		"/C/Users/Kelly/_Sites/website/_posts/2010-01-07-post-modified.md",
+		"/C/Users/Kelly/_Sites/website/_posts/Assemblies-project.md",
+		"/C/Users/Kelly/_Sites/website/_posts/2019-04-18-welcome-to-jekyll.md",
+		"/C/Users/Kelly/_Sites/website/_site/assets/css/style.css",
+		"/C/Users/Kelly/_Sites/website/_layouts/nlayout.html",
+		"/C/Users/Kelly/_Sites/website/_includes/header.html",
+		"/C/Users/Kelly/_Sites/website/_layouts/splash.html",
+		"/C/Users/Kelly/_Sites/website/_sass/minimal-mistakes/_navigation.scss",
+		"/C/Users/Kelly/_Sites/website/_pages/year-archive.md",
+		"/C/Users/Kelly/_Sites/website/_pages/tag-archive.md",
+		"/C/Users/Kelly/_Sites/website/_pages/category-archive.md",
+		"/C/Users/Kelly/Desktop/Ideas/site/css/style.css",
+		"/C/Users/Kelly/Desktop/Ideas/site/about.html",
+		"/C/Users/Kelly/Desktop/Ideas/site/index.html",
+		"/C/Users/Kelly/Desktop/Ideas/site/css/style.map",
+		"/C/Users/Kelly/Desktop/Ideas/site/index2.html",
+		"/C/Users/Kelly/Desktop/Ideas/solid-gauge-gallery-8.0.0-circular-gauges-solid-gauge/index.html",
+		"/C/Users/Kelly/Desktop/Ideas/site/Donut Chart.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "data/page_sharer.toml",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 595.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hugosite.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
