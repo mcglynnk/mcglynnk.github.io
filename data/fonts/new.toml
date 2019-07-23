@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Default"
+
+# Optional Google font URL
+google_fonts = "Dosis:400,700|Montserrat:400,700|Nunito+Sans|PT+Sans+Narrow:400,700|Roboto+Condensed:400,700"
+
+# Font families
+heading_font = "Dosis"
+body_font = "Montserrat"
+nav_font = "Roboto Condensed"
+mono_font = "Montserrat"
+
+# Font size
+font_size = "20"
+font_size_small = "16"

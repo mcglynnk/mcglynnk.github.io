@@ -17,30 +17,11 @@
 			}
 		},
 		{
-			"contents": "",
-			"file": "assets/custom.css",
-			"file_size": 0,
-			"file_write_time": 132057915624128393,
+			"file": "data/page_sharer.toml",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "config/_default/params.toml",
-			"settings":
-			{
-				"buffer_size": 4616,
+				"buffer_size": 1285,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "layouts/partials/page_author.html",
-			"settings":
-			{
-				"buffer_size": 2872,
 				"line_ending": "Unix"
 			}
 		}
@@ -80,20 +61,20 @@
 		"/C/Users/Kelly/_Sites/hugosite",
 		"/C/Users/Kelly/_Sites/hugosite/config",
 		"/C/Users/Kelly/_Sites/hugosite/config/_default",
-		"/C/Users/Kelly/_Sites/hugosite/content",
-		"/C/Users/Kelly/_Sites/hugosite/content/authors",
-		"/C/Users/Kelly/_Sites/hugosite/content/authors/admin",
-		"/C/Users/Kelly/_Sites/hugosite/content/home",
 		"/C/Users/Kelly/_Sites/hugosite/data",
-		"/C/Users/Kelly/_Sites/hugosite/data/themes",
 		"/C/Users/Kelly/_Sites/hugosite/layouts",
-		"/C/Users/Kelly/_Sites/hugosite/layouts/partials"
+		"/C/Users/Kelly/_Sites/hugosite/layouts/partials",
+		"/C/Users/Kelly/_Sites/hugosite/resources",
+		"/C/Users/Kelly/_Sites/hugosite/static"
 	],
 	"file_history":
 	[
+		"/C/Users/Kelly/_Sites/hugosite/config/_default/menus.toml",
+		"/C/Users/Kelly/_Sites/hugosite/config/_default/config.toml",
+		"/C/Users/Kelly/_Sites/hugosite/assets/custom.css",
+		"/C/Users/Kelly/_Sites/hugosite/public/css/academic.min.a9a796b4dba28c78fc94d2550173437e.css",
 		"/C/Users/Kelly/_Sites/hugosite/config/_default/params.toml",
 		"/C/Users/Kelly/_Sites/hugosite/content/home/research.md",
-		"/C/Users/Kelly/_Sites/hugosite/config/_default/menus.toml",
 		"/C/Users/Kelly/_Sites/hugosite/content/home/accomplishments.md",
 		"/C/Users/Kelly/_Sites/hugosite/content/home/experience.md",
 		"/C/Users/Kelly/_Sites/hugosite/content/home/hero.md",
@@ -119,7 +100,6 @@
 		"/C/Users/Kelly/_Sites/hugosite/content/authors/admin/x_index.md",
 		"/C/Users/Kelly/_Sites/hugosite/icons list.md",
 		"/C/Users/Kelly/_Sites/hugosite/content/home/hobbies.md",
-		"/C/Users/Kelly/_Sites/hugosite/config/_default/config.toml",
 		"/C/Users/Kelly/_Sites/hugosite/themes/academic/data/themes/ocean.toml",
 		"/C/Users/Kelly/_Sites/hugosite/data/themes/academic-www.toml",
 		"/C/Users/Kelly/_Sites/hugosite/themes/academic/data/themes/ocean-original.toml",
@@ -203,13 +183,14 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
-		"height": 101.0,
+		"height": 104.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -217,6 +198,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"menu",
 			"edu"
 		],
 		"highlight": true,
@@ -235,7 +217,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -262,55 +244,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1268.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "assets/custom.css",
+					"file": "data/page_sharer.toml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1285,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "config/_default/params.toml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4616,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3105,
-								3105
+								971,
+								971
 							]
 						],
 						"settings":
@@ -320,40 +274,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1583.0,
+						"translation.y": 216.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "layouts/partials/page_author.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 2872,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 378.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -361,7 +285,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -398,7 +322,7 @@
 	"project": "hugosite.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
