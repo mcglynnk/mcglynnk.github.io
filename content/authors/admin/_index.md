@@ -67,7 +67,9 @@ email: ""
 
 ---
 
-I am a biochemist and cancer biologist with a research background in epigenetic mechanisms driving cancer transformation. During my time in the lab, I've enjoyed applying my diverse technical skill set to research problems and tackling projects on a team.  I'm currently putting my skills to use creating two new CRISPR/Cas9 cell lines for ChIP-sequencing experiments! When I’m not at the bench, I enjoy cooking, traveling, and indoor gardening.
+I'm a biochemist and cancer biologist with a research background in epigenetic mechanisms driving cancer transformation.  During my time in the lab, I've enjoyed applying my diverse technical skill set to research problems and implementing new methods.  Currently, I'm putting my skills to use creating a new CRISPR/Cas9 knockout cell line while working on R & Python data science projects! When I’m not at the bench, I enjoy cooking, traveling, and indoor gardening.
+
+*Updated Aug 29th, 2019*
 
 
 
