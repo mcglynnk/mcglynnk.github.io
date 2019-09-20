@@ -11,8 +11,16 @@
 			"file": "content/authors/admin/_index.md",
 			"settings":
 			{
-				"buffer_size": 2212,
+				"buffer_size": 2214,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/_default/config.toml",
+			"settings":
+			{
+				"buffer_size": 2231,
 				"line_ending": "Unix"
 			}
 		}
@@ -233,15 +241,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2212,
+						"buffer_size": 2214,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1164,
-								1164
+								2181,
+								2181
 							]
 						],
 						"settings":
@@ -251,10 +259,38 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 777.0,
+						"translation.y": 1111.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/_default/config.toml",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1261.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
