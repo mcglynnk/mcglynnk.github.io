@@ -57,8 +57,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below. 
 - icon: cv
   icon_pack: ai
-  link: files/Kelly_McGlynn_Resume.pdf
-
+  link: files/Kelly_McGlynn_Resume.pdf"
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
@@ -69,7 +68,7 @@ email: ""
 
 I'm a biochemist and cancer biologist with a research background in epigenetic mechanisms driving cancer transformation.  During my time in the lab, I've enjoyed applying my diverse technical skill set to research problems and implementing new methods.  Currently, I'm putting my skills to use creating a new CRISPR/Cas9 knockout cell line while working on R & Python data science projects! When I’m not at the bench, I enjoy cooking, traveling, and indoor gardening.
 
-*Updated Sept. 20th, 2019*
+*Updated Oct. 16th, 2019*
 
 
 

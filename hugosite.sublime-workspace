@@ -11,7 +11,7 @@
 			"file": "content/authors/admin/_index.md",
 			"settings":
 			{
-				"buffer_size": 2214,
+				"buffer_size": 2213,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -20,7 +20,8 @@
 			"file": "config/_default/config.toml",
 			"settings":
 			{
-				"buffer_size": 2231,
+				"buffer_size": 2255,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -60,21 +61,15 @@
 		"/C/Users/Kelly/_Sites/hugosite",
 		"/C/Users/Kelly/_Sites/hugosite/config",
 		"/C/Users/Kelly/_Sites/hugosite/config/_default",
-		"/C/Users/Kelly/_Sites/hugosite/content",
-		"/C/Users/Kelly/_Sites/hugosite/content/authors",
-		"/C/Users/Kelly/_Sites/hugosite/content/authors/admin",
-		"/C/Users/Kelly/_Sites/hugosite/content/home",
 		"/C/Users/Kelly/_Sites/hugosite/layouts",
 		"/C/Users/Kelly/_Sites/hugosite/layouts/partials",
-		"/C/Users/Kelly/_Sites/hugosite/layouts/partials/widgets",
-		"/C/Users/Kelly/_Sites/hugosite/public",
-		"/C/Users/Kelly/_Sites/hugosite/public/files"
+		"/C/Users/Kelly/_Sites/hugosite/layouts/partials/widgets"
 	],
 	"file_history":
 	[
+		"/C/Users/Kelly/_Sites/hugosite/content/authors/admin/_index.md",
 		"/C/Users/Kelly/_Sites/hugosite/config/_default/params.toml",
 		"/C/Users/Kelly/_Sites/hugosite/config/_default/menus.toml",
-		"/C/Users/Kelly/_Sites/hugosite/content/authors/admin/_index.md",
 		"/C/Users/Kelly/_Sites/hugosite/data/fonts/new.toml",
 		"/C/Users/Kelly/_Sites/hugosite/layouts/partials/navbar.html",
 		"/C/Users/Kelly/_Sites/hugosite/themes/academic/assets/css/custom.css",
@@ -192,7 +187,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -207,6 +202,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Resume",
 			"github",
 			"css",
 			"plug",
@@ -241,15 +237,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2214,
+						"buffer_size": 2213,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2181,
-								2181
+								1489,
+								1489
 							]
 						],
 						"settings":
@@ -259,7 +255,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1111.0,
+						"translation.y": 733.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -268,26 +264,28 @@
 				{
 					"buffer": 1,
 					"file": "config/_default/config.toml",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2231,
+						"buffer_size": 2255,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1933,
+								1933
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1261.0,
+						"translation.y": 811.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
