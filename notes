@@ -1,1 +1,25 @@
+Requires:
+Ruby in Ubuntu, hugo gem for ruby
+Git bash
+Github account
+
+- Download zip file containing hugo files
+https://sourcethemes.com/academic/docs/install/#install-with-zip
+- I put this zip file in c/users/kelly/sites/hugosite
+- follow instructions at link above
+- hugosite folder should contain folders such as config, content, data, layouts, public, etc
+
+- Log in to github, make a new repository
+- After clicking 'make new repository,' copy the line from the following page that starts with 
+```git remote add origin https://[your github username].git``` and paste into git bash
+
+
+(in git bash)
+```
+cd [path to hugosite]      
+git init
+
+ 
+
+
 
