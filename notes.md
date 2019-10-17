@@ -79,7 +79,7 @@ The website should now be live!
 ### To Update      
 To update the website files later,
 - modify files in your local hugosite folder    
-- push everything to the academic-kickstart repo    
+- push everything to your academic-kickstart repo (you can make this repo private to protect your files, etc. The <USERNAME>.github.io repo must be public.)   
 - ```hugo serve --watch``` to check your edits    
 - ```hugo``` to re-build the HTML in the 'public' folder      
 - ```cd public```, ```git remote -v``` *always make sure this is correct!  Should point to your <USERNAME>.github.io       
