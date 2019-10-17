@@ -71,6 +71,6 @@ git commit -m "build website"
 git push origin master    
 cd ..
 ```
-
-
+         
+Finally, go to your github repository <USERNAME>.github.io, go into settings > options, and configure Github Pages at the bottom of the page.        
 
