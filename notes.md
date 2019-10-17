@@ -3,6 +3,7 @@ Ruby in Ubuntu, hugo gem for ruby
 Git bash       
 Github account      
        
+### Step 1        
 - Download zip file containing hugo files
 https://sourcethemes.com/academic/docs/install/#install-with-zip
 - I put this zip file in c/users/kelly/sites/hugosite
@@ -26,7 +27,9 @@ git commit -m "adding files"
 - Then type:
 ```git push origin master```     
 
-       
+
+### Step 2     
+
        
 
  
