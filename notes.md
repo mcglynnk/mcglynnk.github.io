@@ -13,7 +13,7 @@ https://sourcethemes.com/academic/docs/install/#install-with-zip
 In git bash:          
 - ```pwd``` to make sure you're in your hugosite folder
 ```     
-git init      
+git init      # only need to do this once
 git add .  
 git commit -m "adding files"    
 ``` 
@@ -49,8 +49,14 @@ and make sure your website looks how you want it to.
       
 ### Step 3      
 If everything looks good, ctrl+C to stop serving the website.       
-
-
+(From https://sourcethemes.com/academic/docs/deployment/):       
+"In your config.toml file, set baseurl = "https://<USERNAME>.github.io/", where <USERNAME> is your Github username. Stop Hugo if it’s running and delete the public directory if it exists (by typing rm -r public/)."      
+        
+In Git bash:    
+```git submodule add -f -b master https://github.com/<USERNAME>/<USERNAME>.github.io.git public```
+       
+First push your edited site files to your academic-kickstart repository, same as above: make sure you're in your hugosite folder,
+```git remote -v``` to check your remote is correct (it should be the address to your academic-kickstart repo), 
  
 
 
