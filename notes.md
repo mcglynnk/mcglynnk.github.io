@@ -73,4 +73,16 @@ cd ..
 ```
          
 Finally, go to your github repository <USERNAME>.github.io, go into settings > options, and configure Github Pages at the bottom of the page.        
+The website should now be live!       
+
+
+### To Update      
+To update the website files later,
+- modify files in your local hugosite folder    
+- push everything to the academic-kickstart repo    
+- ```hugo serve --watch``` to check your edits    
+- ```hugo``` to re-build the HTML in the 'public' folder      
+- ```cd public```, ```git remote -v``` *always make sure this is correct!  Should point to your <USERNAME>.github.io       
+- git add ., commit and push the files in the public folder to your <USERNAME>.github.io repo       
+
 
