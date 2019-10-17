@@ -10,7 +10,7 @@ https://sourcethemes.com/academic/docs/install/#install-with-zip
 - follow instructions at link above
 - hugosite folder should contain folders such as config, content, data, layouts, public, etc
            
-In git bash:          
+In git bash: *you could run all of the git commands here in Ubuntu, but will have to enter your github username/password for every git push*         
 - ```pwd``` to make sure you're in your hugosite folder
 ```     
 git init      # only need to do this once
@@ -54,10 +54,23 @@ If everything looks good, ctrl+C to stop serving the website.
         
 In Git bash:    
 ```git submodule add -f -b master https://github.com/<USERNAME>/<USERNAME>.github.io.git public```
-       
+    
+In Git bash:    
 First push your edited site files to your academic-kickstart repository, same as above: make sure you're in your hugosite folder,
-```git remote -v``` to check your remote is correct (it should be the address to your academic-kickstart repo), 
- 
+```git remote -v``` to check your remote is correct (it should be the address to your academic-kickstart repo), ```git add .```, ```git commit -m "your commit message here"```, ```git push origin master```.      
+        
+In Ubuntu:    
+```hugo```      
+This will re-build the HTML files in the public folder.      
+       
+In Git bash:      
+```
+cd public      
+git add .     
+git commit -m "build website"    
+git push origin master    
+cd ..
+```
 
 
 
