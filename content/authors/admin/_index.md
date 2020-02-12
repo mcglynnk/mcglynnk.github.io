@@ -66,9 +66,15 @@ email: ""
 
 ---
 
-I'm a biochemist and cancer biologist with a research background in epigenetic mechanisms driving cancer transformation.  During my time in the lab, I've enjoyed applying my diverse technical skill set to research problems and implementing new methods.  Currently, I'm putting my skills to use creating a new CRISPR/Cas9 knockout cell line while working on R & Python data science projects! When I’m not at the bench, I enjoy cooking, traveling, and indoor gardening.
+I'm a biochemist and cancer biologist with a research background in epigenetic mechanisms driving cancer transformation.  During my time in the lab, I've enjoyed applying my diverse technical skill set to research problems and implementing new methods.  
 
-*Updated Oct. 16th, 2019*
+Currently, I'm participating in the Insight Health Data Science Program in Boston, where I'm bolstering my coding skills to prepare for a career in industry (I built an app that uses machine learning to help doctors predict patient medication adherence!  Check it out soon in my portfolio site!)  When I’m not at the bench or buried in a Python project, I enjoy cooking, traveling, and indoor gardening.
+
+I am also officially on the job market, so check out my resume link at the top of the page and please reach out if you have or know of any opportunities for an enthusiastic biologist!
+
+Thanks for visiting!
+
+*Updated Feb. 12th, 2020*
 
 
 

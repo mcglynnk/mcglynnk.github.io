@@ -8,11 +8,35 @@
 	"buffers":
 	[
 		{
+			"file": "content/home/about.md",
+			"settings":
+			{
+				"buffer_size": 623,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "content/authors/admin/_index.md",
 			"settings":
 			{
-				"buffer_size": 2213,
+				"buffer_size": 2612,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/home/contact.md",
+			"settings":
+			{
+				"buffer_size": 502,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/home/experience.md",
+			"settings":
+			{
+				"buffer_size": 1965,
 				"line_ending": "Unix"
 			}
 		},
@@ -21,7 +45,6 @@
 			"settings":
 			{
 				"buffer_size": 2255,
-				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -61,6 +84,10 @@
 		"/C/Users/Kelly/_Sites/hugosite",
 		"/C/Users/Kelly/_Sites/hugosite/config",
 		"/C/Users/Kelly/_Sites/hugosite/config/_default",
+		"/C/Users/Kelly/_Sites/hugosite/content",
+		"/C/Users/Kelly/_Sites/hugosite/content/authors",
+		"/C/Users/Kelly/_Sites/hugosite/content/authors/admin",
+		"/C/Users/Kelly/_Sites/hugosite/content/home",
 		"/C/Users/Kelly/_Sites/hugosite/layouts",
 		"/C/Users/Kelly/_Sites/hugosite/layouts/partials",
 		"/C/Users/Kelly/_Sites/hugosite/layouts/partials/widgets"
@@ -68,30 +95,34 @@
 	"file_history":
 	[
 		"/C/Users/Kelly/_Sites/hugosite/content/authors/admin/_index.md",
+		"/C/Users/Kelly/_Sites/hugosite/content/home/accomplishments.md",
+		"/C/Users/Kelly/_Sites/hugosite/content/home/research.md",
+		"/C/Users/Kelly/_Sites/hugosite/config/_default/config.toml",
+		"/C/Users/Kelly/_Sites/hugosite/content/home/skills.md",
+		"/C/Users/Kelly/_Sites/hugosite/content/home/blank.md",
 		"/C/Users/Kelly/_Sites/hugosite/config/_default/params.toml",
 		"/C/Users/Kelly/_Sites/hugosite/config/_default/menus.toml",
-		"/C/Users/Kelly/_Sites/hugosite/data/fonts/new.toml",
+		"/C/Users/Kelly/_Sites/hugosite/content/home/about.md",
+		"/C/Users/Kelly/_Sites/hugosite/content/home/projects.md",
+		"/C/Users/Kelly/_Sites/hugosite/public/index.html",
+		"/C/Users/Kelly/_Sites/hugosite/content/home/index.md",
 		"/C/Users/Kelly/_Sites/hugosite/layouts/partials/navbar.html",
+		"/C/Users/Kelly/_Sites/hugosite/content/home/hero.md",
+		"/C/Users/Kelly/_Sites/hugosite/content/home/experience.md",
+		"/C/Users/Kelly/_Sites/hugosite/layouts/partials/widgets/research.html",
+		"/C/Users/Kelly/_Sites/hugosite/layouts/partials/page_author.html",
+		"/C/Users/Kelly/Downloads/Espresso Archives - Coffee Review.html",
+		"/C/Users/Kelly/_Sites/hugosite/data/fonts/new.toml",
 		"/C/Users/Kelly/_Sites/hugosite/themes/academic/assets/css/custom.css",
 		"/C/Users/Kelly/_Sites/hugosite/resources/_gen/assets/css/css/custom.css",
-		"/C/Users/Kelly/_Sites/hugosite/content/home/projects.md",
 		"/C/Users/Kelly/_Sites/hugosite/data/page_sharer.toml",
 		"/C/Users/Kelly/_Sites/hugosite/themes/academic/data/academic.toml",
-		"/C/Users/Kelly/_Sites/hugosite/config/_default/config.toml",
 		"/C/Users/Kelly/_Sites/hugosite/assets/custom.css",
 		"/C/Users/Kelly/_Sites/hugosite/public/css/academic.min.a9a796b4dba28c78fc94d2550173437e.css",
-		"/C/Users/Kelly/_Sites/hugosite/content/home/research.md",
-		"/C/Users/Kelly/_Sites/hugosite/content/home/accomplishments.md",
-		"/C/Users/Kelly/_Sites/hugosite/content/home/experience.md",
-		"/C/Users/Kelly/_Sites/hugosite/content/home/hero.md",
-		"/C/Users/Kelly/_Sites/hugosite/content/home/about.md",
-		"/C/Users/Kelly/_Sites/hugosite/content/home/skills.md",
 		"/C/Users/Kelly/_Sites/hugosite/data/themes/cells.toml",
 		"/C/Users/Kelly/_Sites/hugosite/layouts/partials/widgets/about.html",
-		"/C/Users/Kelly/_Sites/hugosite/layouts/partials/page_author.html",
 		"/C/Users/Kelly/_Sites/hugosite/content/home/hero-original",
 		"/C/Users/Kelly/_Sites/hugosite/content/home/contact.md",
-		"/C/Users/Kelly/_Sites/hugosite/content/home/blank.md",
 		"/C/Users/Kelly/_Sites/hugosite/content/home/slider.md",
 		"/C/Users/Kelly/_Sites/hugosite/layouts/partials/widgets/x.html",
 		"/C/Users/Kelly/_Sites/Backups/hs backup/hugosite/content/authors/admin/_index.md",
@@ -187,7 +218,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -202,6 +233,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"learning",
+			"price",
+			"Aroma:",
+			"aroma:",
+			"aroma",
 			"Resume",
 			"github",
 			"css",
@@ -228,24 +264,52 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "content/authors/admin/_index.md",
+					"file": "content/home/about.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2213,
+						"buffer_size": 623,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1489,
-								1489
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/authors/admin/_index.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -255,14 +319,72 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 733.0,
+						"translation.y": 1207.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
+					"file": "content/home/contact.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "content/home/experience.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"file": "config/_default/config.toml",
 					"semi_transient": false,
 					"settings":
@@ -274,8 +396,8 @@
 						"selection":
 						[
 							[
-								1933,
-								1933
+								0,
+								0
 							]
 						],
 						"settings":
@@ -285,10 +407,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 811.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]

@@ -15,22 +15,28 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "base, dplyr, R Markdown"
+  name = "Python"
+  description = "pandas, numpy, scikit-learn, seaborn, beautifulsoup, sqlalchemy, PyCharm"
   
 [[feature]]
   icon = "diagnoses"
   icon_pack = "fas"
-  name = "Molecular Biology"
-  description = "cloning, CRISPR/Cas9 gene editing, plasmid customization"  
+  name = "Molecular Biology, Biochemistry"
+  description = "cloning, CRISPR, plasmid customization"  
 
 [[feature]]
-  icon = "dna"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Epigenetics & Biochemistry"
-  description = "enzyme assays, protein purification, protein-protein interactions, ChIP qPCR"
+  name = "Data Science & Machine Learning"
+  description = "data cleaning, web scraping, prediction and classification models, cross-validation"
+
+[[feature]]
+  icon = "server"
+  icon_pack = "fas"
+  name = "Data Tools"
+  description = "PyCharm, Git, Jupyter, R Shiny"
 
 [[feature]]
   icon = "microscope"
@@ -43,11 +49,5 @@ subtitle = ""
   icon_pack = "fas"
   name = "Oncology"
   description = "flow cytometry, primary bone marrow cell culture & assays, mouse leukemia models"
-
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Data Analysis"
-  description = "Graphpad Prism, FlowJo, PyMOL"
 
 +++
