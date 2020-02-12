@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Graduate Researcher"
   company = "University of Rochester Medical Center"
-  company_url = ""
+  company_url = "https://www.urmc.rochester.edu"
   location = "Rochester, NY"
   date_start = "2012-09-01"
   date_end = "2018-06-30"
@@ -35,12 +35,19 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Postdoctoral Researcher"
   company = "Wilmot Cancer Center"
-  company_url = ""
+  company_url = "https://www.urmc.rochester.edu/cancer-institute.aspx"
   location = "Rochester, NY"
   date_start = "2018-12-15"
   date_end = ""
   description = """Research on epigenetic mechanisms driving breast cancer"""
 
-
+[[experience]]
+  title = "Insight Health Data Science Fellow"
+  company = "Insight Data Science"
+  company_url = "https://www.insighthealthdata.com/"
+  location = "Boston, MA"
+  date_start = "2020-01-15"
+  date_end = "2020-03-31"
+  description = """An intensive data science program for Ph.Ds transitioning to careers in industry! For my Insight project, I developed an app that uses machine learning on real-world data to help doctors predict medication adherence."""
 
 +++

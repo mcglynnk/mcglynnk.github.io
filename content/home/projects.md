@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 35  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -62,11 +62,11 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "IMG_20170528_194744_707.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  text_color_light = true  
   
 [advanced]
  # Custom CSS. 
@@ -76,4 +76,4 @@ subtitle = ""
  css_class = "" 
 +++
 
-I'm currently learning R and Python for data science projects!  You can check out the projects I'm working on [here](https://mcglynnk.github.io/showcase).
+I'm currently working on a portfolio of Python data science projects! You can check out my projects showcase [here](https://mcglynnk.github.io/showcase).
