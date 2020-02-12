@@ -9,6 +9,7 @@
 	[
 		{
 			"file": "content/home/about.md",
+<<<<<<< HEAD
 			"settings":
 			{
 				"buffer_size": 623,
@@ -21,11 +22,17 @@
 			{
 				"buffer_size": 2612,
 				"encoding": "UTF-8",
+=======
+			"settings":
+			{
+				"buffer_size": 623,
+>>>>>>> 878df53e1fd86a2ce12f56c59e5839f7141f0880
 				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "content/home/contact.md",
+<<<<<<< HEAD
 			"settings":
 			{
 				"buffer_size": 502,
@@ -45,6 +52,19 @@
 			"settings":
 			{
 				"buffer_size": 2255,
+=======
+			"settings":
+			{
+				"buffer_size": 502,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/home/experience.md",
+			"settings":
+			{
+				"buffer_size": 1965,
+>>>>>>> 878df53e1fd86a2ce12f56c59e5839f7141f0880
 				"line_ending": "Unix"
 			}
 		}
@@ -264,7 +284,11 @@
 	"groups":
 	[
 		{
+<<<<<<< HEAD
 			"selected": 1,
+=======
+			"selected": 2,
+>>>>>>> 878df53e1fd86a2ce12f56c59e5839f7141f0880
 			"sheets":
 			[
 				{
@@ -282,6 +306,7 @@
 							[
 								0,
 								0
+<<<<<<< HEAD
 							]
 						],
 						"settings":
@@ -310,22 +335,27 @@
 							[
 								0,
 								0
+=======
+>>>>>>> 878df53e1fd86a2ce12f56c59e5839f7141f0880
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
+<<<<<<< HEAD
 						"translation.y": 1207.0,
+=======
+						"translation.y": 42.0,
+>>>>>>> 878df53e1fd86a2ce12f56c59e5839f7141f0880
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
+<<<<<<< HEAD
 					"buffer": 2,
 					"file": "content/home/contact.md",
 					"semi_transient": false,
@@ -386,10 +416,14 @@
 				{
 					"buffer": 4,
 					"file": "config/_default/config.toml",
+=======
+					"buffer": 1,
+					"file": "content/home/contact.md",
+>>>>>>> 878df53e1fd86a2ce12f56c59e5839f7141f0880
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2255,
+						"buffer_size": 502,
 						"regions":
 						{
 						},
@@ -402,15 +436,50 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/home/experience.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+<<<<<<< HEAD
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 2,
+=======
+						"translation.y": 860.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+>>>>>>> 878df53e1fd86a2ce12f56c59e5839f7141f0880
 					"type": "text"
 				}
 			]
